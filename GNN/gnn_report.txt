@@ -1,0 +1,16 @@
+GNN VULNERABILITY DETECTION REPORT
+==================================
+
+Model: Custom GCN (3 layers)
+Hidden Dim: 64
+Epochs: 20
+
+TEST METRICS:
+Accuracy:  0.9876
+Precision: 0.0000
+Recall:    0.0000
+F1 Score:  0.0000
+
+Confusion Matrix:
+[[1036    0]
+ [  13    0]]
